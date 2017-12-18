@@ -15,6 +15,4 @@ R^2 Values for the following surgical cases:
 * Case 5: 0.9962023958701802
 ![alt text](https://github.com/damiandziedzic/ML-Project---Anesthesia-Prediction/blob/master/Result%20Images/Linear_Regression_results_picture.png)
 
-$$
-   R^2
-$$
+R<sup>2</sup>
