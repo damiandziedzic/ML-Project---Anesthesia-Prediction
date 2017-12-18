@@ -2,7 +2,7 @@
 Prediction of End-tidal Sevoflurane Gas Concentration of Patient During Surgery
 
 ## Long Short-Term Memory (LSTM) Recurrent Neural Network
-$$R^2$$ Values for the following surgical cases:
+$$\R^2$$ Values for the following surgical cases:
 * Case 3: 0.9859930823562004
 * Case 4: 0.9899826648126783
 * Case 5: 0.930413736452069
