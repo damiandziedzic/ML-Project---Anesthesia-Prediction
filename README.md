@@ -1,7 +1,13 @@
-# ML-Project---Anesthesia-Prediction
-Prediction of End-tidal Sevoflurane Gas Concentration of Patient During Surgery
+# Machine Learning Project: Prediction of End-tidal Sevoflurane Gas Concentration of Patient During Surgery
+In this project the current time (t) exhaled sevoflurane gas concentration is predicted based on features from the previous second (t-1) using the models:
 
-## Long Short-Term Memory (LSTM) Recurrent Neural Network
+* Multivariate Time Series Forecasting with Long Short-Term Memory (LSTM) Recurrent Neural Network
+* Regular Multivariate Linear Regression
+
+For each model, the predicted end-tidal sevoflurance gas concentration's correlation with the actual value is evaluated and shown below. Linear regression demonstrates improved performance compared to the LSTM recurrent neural network. Perhaps the LSTM model was too complex for the dataset and when there was noise or large variance in the data it was more difficult to track.
+
+
+## Long Short-Term Memory (LSTM) Recurrent Neural Network Results
 R<sup>2</sup> Values for the following surgical cases:
 * Case 3: 0.9859930823562004
 * Case 4: 0.9899826648126783
