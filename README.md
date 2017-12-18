@@ -4,7 +4,7 @@ In this project the current time (t) exhaled sevoflurane gas concentration is pr
 * Multivariate Time Series Forecasting with Long Short-Term Memory (LSTM) Recurrent Neural Network
 * Regular Multivariate Linear Regression
 
-For each model, the predicted end-tidal sevoflurance gas concentration's correlation with the actual value is evaluated and shown below. Linear regression demonstrates improved performance compared to the LSTM recurrent neural network. Perhaps the LSTM model was too complex for the dataset and when there was noise or large variance in the data it was more difficult to track.
+For each model, the predicted end-tidal sevoflurane gas concentration's correlation with the actual value is evaluated and shown below. Linear regression demonstrates improved performance compared to the LSTM recurrent neural network. Perhaps the LSTM model was too complex for the dataset and when there was noise or large variance in the data it was more difficult to track.
 
 
 ## Long Short-Term Memory (LSTM) Recurrent Neural Network Results
